@@ -1,3 +1,6 @@
 import streamlit as st
 
-st.write("Hello")
+st.title("Cloud Computing")
+
+num = st.number_input('Pick a number', 0, 100)
+st.write(num)
