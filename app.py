@@ -14,4 +14,4 @@ elif(num>60):
 elif(num>50):
     st.write("B")
 else:
-    print("Fail")
+    st.write("Fail")
